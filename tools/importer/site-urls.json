@@ -1,6 +1,651 @@
 {
   "originUrl": "https://lullaboo.ca/",
-  "urls": [],
+  "urls": [
+    {
+      "url": "https://lullaboo.ca/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-best-valentines-day-activities-for-preschoolers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-hilarious-childrens-books/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-signs-of-a-quality-childcare-centre-every-parent-needs-to-know/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-spring-activities-for-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-stress-relief-strategies-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/3-ways-make-car-child-friendly/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/4-free-fun-toddler-learning-apps/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/4-fun-family-winter-games/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/4-fun-spring-outdoor-activities-for-preschool/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/4-parenting-quotes-you-wont-forget/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/5-pro-tips-flying-infant-baby-toddler/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/5-signs-child-ready-preschool/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/5-tips-fussy-eaters/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/5-ways-get-toddler-eat-vegetables/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/6-common-mistakes-made-looking-child-care/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/8-reasons-enrol-child-daycare-program/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/9-favorite-fall-books-for-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/a-parents-brief-guide-to-each-early-childhood-stage/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/about-us/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/additional-support/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/aurora-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/awards/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/best-toddler-learning-songs-for-the-summer/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/2/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/3/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/4/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/5/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/6/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/7/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/blog/page/8/?et_blog",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/book-a-tour/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/Book-a-tour/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/bradford-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-center-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-homestead/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-south-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-wanless-celebrating-a-new-beginning-at-lullaboo/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-wanless-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/cambridge-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/cambridge-times-readers-choice-winner/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/career-application/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/careers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/activities/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/activities/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/activities/page/3/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/business-recognition/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/business-recognition/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/clothing/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/ecs-students/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/education/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/education/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/education/page/3/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/education/page/4/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/events/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/events/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/page/3/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/page/4/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/page/5/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/page/6/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/partnership/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recommendations/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recommendations/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recommendations/page/3/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recruitment/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/sickkids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/sickkids/page/2/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/category/travel/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/child-care-school-the-key-role-it-plays-in-your-childs-development/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/choosing-right-infant-daycare-child/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/clothing-tips-things-know-dressing-infant/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/come-and-meet-us-at-the-baby-show/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/community-workshops/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/compassionate-books-young-readers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/contact/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/cwelcc/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/CWELCC/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/decide-daycare-centres/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/early-learning-infants-toddlers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/ecs-students-get-financial-boost-from-lullaboo/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/extra-curricular/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/faq/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/feedback/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/five-educational-apps-toddlers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-educational-activities-young-children/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-fall-family-activities/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-nonfiction-books-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-preschool-summer-crafts/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-staycation-ideas-young-families/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-summer-outdoor-toys-for-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/fun-things-toronto-toddlers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/funny-books-read-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/get-artsy-this-fall-with-fun-fall-crafts-for-kids/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/great-books-parents/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/great-learning-educational-toys/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/great-toys-inspire-stem-learning/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/great-words-encouragement-children/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/handle-aggressive-toddler/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/help-toddler-learn-colors/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/hottest-10-christmas-gifts-for-preschoolers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/icare-daily-report/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/ideas-for-planning-an-affordable-birthday-party-for-your-kid/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/importance-play-young-children/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/infant-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/join-our-5th-annual-lullaboo-sickkids-foundation-bbq/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/keep-baby-warm-canadian-winter/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/learning-continues-home/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/locations/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-kicks-off-sickkids-annual-may-fundraising-events/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-named-donor-of-the-week-by-sickkids-foundation/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-named-sickkids-donor-of-the-week/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-ranks-no-299-on-the-2019-growth-500/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-receives-heartfelt-thanks-from-sickkids-foundation/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboo-wins-cambridge-readers-choice-award-diamond-winner-for-the-fifth-time/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/lullaboos-2017-sick-kids-foundation-campaign/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/milton-east-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-heartland-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-meadowvale-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-west-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/new-lullaboo-childcare-centre-now-open-in-bradford/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/nutrition/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/our-favorite-st-patricks-day-books-for-children/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/our-favorite-summer-books-for-preschoolers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/parents/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/perks/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/popular-childcare-options-pros-and-cons/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/preschool-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/privacy-policy/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/raising-the-bar-in-peel/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/recognition-on-yahoo-finance/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/richmond-hill-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/solving-parenting-disagreements/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/spring-allergies-top-3-ways-to-help-your-child/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/super-fun-summer-activities-for-toddlers-and-preschoolers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/thats-a-wrap-from-the-weekend-at-the-baby-show/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/the-dos-and-donts-when-sending-your-child-to-child-care/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/things-look-selecting-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/tips-cleaning-art-activities/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/tips-teaching-kids-healthy-choices/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toddler-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/top-5-childrens-christmas-films-of-all-time/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/top-5-pool-safety-tips-for-toddlers-lullaboo/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-avenue-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-beaches-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-bedford-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-college-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-kid-friendly-winter-activities/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/two-ways-save-preschoolers-artwork/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/vaughan-daycare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/water-safety-for-preschoolers-this-summer/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/what-is-the-best-age-to-send-a-baby-to-daycare-lullaboo/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/what-is-the-purpose-of-early-childhood-education/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/what-room-temperature-is-too-cold-for-a-baby/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/what-types-of-preschool-programs-are-best-for-my-child/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/why-is-it-important-to-have-childcare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/wxn-top-100-canadas-most-powerful-women-2020/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://lullaboo.ca/young-entrepreneur-under-40-award/",
+      "source": "CRAWL"
+    }
+  ],
   "crawlOptions": {
     "timeout": 64800000,
     "inclusionPatterns": [],
@@ -8,8 +653,2281 @@
     "limit": -1,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "SITEMAPS",
+    "strategy": "crawl",
     "logger": {}
   },
-  "extractionErrors": []
+  "extractionErrors": [
+    {
+      "url": "https://lullaboo.ca/?p=4636",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-best-valentines-day-activities-for-preschoolers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2140",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-hilarious-childrens-books/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4359",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-signs-of-a-quality-childcare-centre-every-parent-needs-to-know/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5154",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-spring-activities-for-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2126",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-stress-relief-strategies-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2133",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/3-ways-make-car-child-friendly/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=3742",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/4-free-fun-toddler-learning-apps/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4410",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/4-fun-family-winter-games/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5310",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/4-fun-spring-outdoor-activities-for-preschool/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4363",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/4-parenting-quotes-you-wont-forget/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2124",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/5-pro-tips-flying-infant-baby-toddler/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2519",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/5-signs-child-ready-preschool/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2493",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/5-tips-fussy-eaters/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2119",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/5-ways-get-toddler-eat-vegetables/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=121",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/6-common-mistakes-made-looking-child-care/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2113",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/8-reasons-enrol-child-daycare-program/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4085",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/9-favorite-fall-books-for-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=3640",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/a-parents-brief-guide-to-each-early-childhood-stage/"
+    },
+    {
+      "url": "https://lullaboo.ca/about-us",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/about-us/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1646",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/about-us/"
+    },
+    {
+      "url": "https://lullaboo.ca/about",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/about-us/"
+    },
+    {
+      "url": "https://lullaboo.ca/additional-support",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/additional-support/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2081",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/additional-support/"
+    },
+    {
+      "url": "https://lullaboo.ca/aurora-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/aurora-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1112",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/aurora-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1477",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/awards/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4355",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/best-toddler-learning-songs-for-the-summer/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1025",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/blog/"
+    },
+    {
+      "url": "https://lullaboo.ca/book-a-tour",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/book-a-tour/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=361",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/book-a-tour/"
+    },
+    {
+      "url": "https://lullaboo.ca/Book-a-tour",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/Book-a-tour/"
+    },
+    {
+      "url": "https://lullaboo.ca/bradford-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/bradford-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25905267",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/bradford-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-center-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-center-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25905423",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-center-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-homestead",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-homestead/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25905339",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-homestead/"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-south-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-south-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25905291",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-south-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906075",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-wanless-celebrating-a-new-beginning-at-lullaboo/"
+    },
+    {
+      "url": "https://lullaboo.ca/brampton-wanless-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-wanless-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25905440",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/brampton-wanless-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/cambridge-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cambridge-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906189",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cambridge-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=7048",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cambridge-times-readers-choice-winner/"
+    },
+    {
+      "url": "https://lullaboo.ca/career-application",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/career-application/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1098",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/career-application/"
+    },
+    {
+      "url": "https://lullaboo.ca/careers",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/careers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1548",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/careers/"
+    },
+    {
+      "url": "https://lullaboo.ca//cdn.jsdelivr.net",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cdn.jsdelivr.net"
+    },
+    {
+      "url": "https://lullaboo.ca//cdnjs.cloudflare.com",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cdnjs.cloudflare.com"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2110",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/child-care-school-the-key-role-it-plays-in-your-childs-development/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2514",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/choosing-right-infant-daycare-child/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2125",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/clothing-tips-things-know-dressing-infant/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=6294",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/come-and-meet-us-at-the-baby-show/"
+    },
+    {
+      "url": "https://lullaboo.ca//common.olemiss.edu",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/common.olemiss.edu"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=7238",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/community-workshops/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2227",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/compassionate-books-young-readers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=411",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/contact/"
+    },
+    {
+      "url": "https://lullaboo.ca/contact",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/contact/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906045",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/cwelcc/"
+    },
+    {
+      "url": "https://lullaboo.ca/CWELCC",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/CWELCC/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2115",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/decide-daycare-centres/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2121",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/early-learning-infants-toddlers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=12373",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/ecs-students-get-financial-boost-from-lullaboo/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25908584",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/extra-curricular/"
+    },
+    {
+      "url": "https://lullaboo.ca/faq",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/faq/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1672",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/faq/"
+    },
+    {
+      "url": "https://lullaboo.ca/feedback",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/feedback/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=12837",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/feedback/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1175",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/five-educational-apps-toddlers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2139",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-educational-activities-young-children/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2201",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-fall-family-activities/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2137",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-nonfiction-books-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2740",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-preschool-summer-crafts/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1285",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-staycation-ideas-young-families/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2635",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-summer-outdoor-toys-for-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2329",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/fun-things-toronto-toddlers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2224",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/funny-books-read-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4079",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/get-artsy-this-fall-with-fun-fall-crafts-for-kids/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2134",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/great-books-parents/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2332",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/great-learning-educational-toys/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2136",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/great-toys-inspire-stem-learning/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2204",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/great-words-encouragement-children/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2127",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/handle-aggressive-toddler/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2120",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/help-toddler-learn-colors/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4418",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/hottest-10-christmas-gifts-for-preschoolers/"
+    },
+    {
+      "url": "https://lullaboo.ca/icare-daily-report",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/icare-daily-report/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1882",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/icare-daily-report/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2132",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/ideas-for-planning-an-affordable-birthday-party-for-your-kid/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2135",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/importance-play-young-children/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1169",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/infant-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/infant-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/infant-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2703",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/join-our-5th-annual-lullaboo-sickkids-foundation-bbq/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2123",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/keep-baby-warm-canadian-winter/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2138",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/learning-continues-home/"
+    },
+    {
+      "url": "https://lullaboo.ca/locations",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/locations/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=375",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/locations/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906623",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-kicks-off-sickkids-annual-may-fundraising-events/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906443",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-named-donor-of-the-week-by-sickkids-foundation/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2118",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-named-sickkids-donor-of-the-week/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=6560",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-ranks-no-299-on-the-2019-growth-500/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906954",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-receives-heartfelt-thanks-from-sickkids-foundation/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25908272",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboo-wins-cambridge-readers-choice-award-diamond-winner-for-the-fifth-time/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2131",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/lullaboos-2017-sick-kids-foundation-campaign/"
+    },
+    {
+      "url": "https://lullaboo.ca/milton-east-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/milton-east-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906204",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/milton-east-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-heartland-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-heartland-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906237",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-heartland-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-meadowvale-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-meadowvale-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906240",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-meadowvale-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/mississauga-west-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-west-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906217",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/mississauga-west-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=6078",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/new-lullaboo-childcare-centre-now-open-in-bradford/"
+    },
+    {
+      "url": "https://lullaboo.ca/nutrition",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/nutrition/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1059",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/nutrition/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4843",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/our-favorite-st-patricks-day-books-for-children/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5741",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/our-favorite-summer-books-for-preschoolers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1976",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/parents/"
+    },
+    {
+      "url": "https://lullaboo.ca/parents",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/parents/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1087",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/perks/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4839",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/popular-childcare-options-pros-and-cons/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1212",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/preschool-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/preschool-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/preschool-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=3",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/privacy-policy/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2116",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/raising-the-bar-in-peel/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=9285",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/recognition-on-yahoo-finance/"
+    },
+    {
+      "url": "https://lullaboo.ca/richmond-hill-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/richmond-hill-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906243",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/richmond-hill-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2130",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/solving-parenting-disagreements/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5307",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/spring-allergies-top-3-ways-to-help-your-child/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2553",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/super-fun-summer-activities-for-toddlers-and-preschoolers/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=6726",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/thats-a-wrap-from-the-weekend-at-the-baby-show/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=85",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/the-dos-and-donts-when-sending-your-child-to-child-care/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2122",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/things-look-selecting-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2141",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/tips-cleaning-art-activities/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2128",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/tips-teaching-kids-healthy-choices/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=1184",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toddler-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/toddler-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toddler-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4188",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/top-5-childrens-christmas-films-of-all-time/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5746",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/top-5-pool-safety-tips-for-toddlers-lullaboo/"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-avenue-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-avenue-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906247",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-avenue-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-beaches-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-beaches-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906250",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-beaches-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-bedford-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-bedford-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906253",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-bedford-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/toronto-college-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-college-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906256",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-college-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2489",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/toronto-kid-friendly-winter-activities/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2129",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/two-ways-save-preschoolers-artwork/"
+    },
+    {
+      "url": "https://lullaboo.ca/vaughan-daycare",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/vaughan-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=25906259",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/vaughan-daycare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2641",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/water-safety-for-preschoolers-this-summer/"
+    },
+    {
+      "url": "https://lullaboo.ca//web.squarecdn.com",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/web.squarecdn.com"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5149",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/what-is-the-best-age-to-send-a-baby-to-daycare-lullaboo/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=3646",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/what-is-the-purpose-of-early-childhood-education/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4633",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/what-room-temperature-is-too-cold-for-a-baby/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=2545",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/what-types-of-preschool-programs-are-best-for-my-child/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=4184",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/why-is-it-important-to-have-childcare/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=8549",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/wxn-top-100-canadas-most-powerful-women-2020/"
+    },
+    {
+      "url": "https://lullaboo.ca/?p=5704",
+      "status": "301 Moved Permanently Redirect: https://lullaboo.ca/young-entrepreneur-under-40-award/"
+    },
+    {
+      "url": "https://lullaboo.ca/cdn.jsdelivr.net",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/common.olemiss.edu",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/cdnjs.cloudflare.com",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/web.squarecdn.com",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/preschool-program",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/preschool-program/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://lullaboo.ca/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/comments/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/12579",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/361",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbook-a-tour%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbook-a-tour%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/375",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flocations%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flocations%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1646",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fabout-us%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fabout-us%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1477",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fawards%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fawards%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1025",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fblog%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fblog%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1169",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Finfant-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Finfant-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1184",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoddler-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoddler-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1212",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fpreschool-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fpreschool-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25908584",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fextra-curricular%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fextra-curricular%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1059",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fnutrition%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fnutrition%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1976",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fparents%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fparents%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1087",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fperks%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fperks%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1548",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcareers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcareers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/411",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcontact%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcontact%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906204",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmilton-east-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmilton-east-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25905440",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-wanless-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-wanless-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1882",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ficare-daily-report%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ficare-daily-report%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906045",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcwelcc%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcwelcc%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1672",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffaq%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffaq%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/privacy-policy/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/3",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fprivacy-policy%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fprivacy-policy%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1112",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Faurora-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Faurora-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25905267",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbradford-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbradford-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25905291",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-south-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-south-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25905339",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-homestead%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-homestead%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25905423",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-center-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-center-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906189",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcambridge-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcambridge-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906217",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-west-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-west-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906237",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-heartland-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-heartland-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906240",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-meadowvale-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fmississauga-meadowvale-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906243",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Frichmond-hill-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Frichmond-hill-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906259",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fvaughan-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fvaughan-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906247",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-avenue-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-avenue-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906250",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-beaches-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-beaches-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906253",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-bedford-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-bedford-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/25906256",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-college-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-college-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/1098",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcareer-application%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcareer-application%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/25908272",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-wins-cambridge-readers-choice-award-diamond-winner-for-the-fifth-time%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-wins-cambridge-readers-choice-award-diamond-winner-for-the-fifth-time%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/business-recognition/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/20",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/25906954",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-receives-heartfelt-thanks-from-sickkids-foundation%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-receives-heartfelt-thanks-from-sickkids-foundation%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/sickkids/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/29",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/25906443",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-named-donor-of-the-week-by-sickkids-foundation%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-named-donor-of-the-week-by-sickkids-foundation%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/events/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/24",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/partnership/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/26",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/25906623",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-kicks-off-sickkids-annual-may-fundraising-events%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-kicks-off-sickkids-annual-may-fundraising-events%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/25906075",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-wanless-celebrating-a-new-beginning-at-lullaboo%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbrampton-wanless-celebrating-a-new-beginning-at-lullaboo%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/education/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/23",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/12373",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fecs-students-get-financial-boost-from-lullaboo%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fecs-students-get-financial-boost-from-lullaboo%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/ecs-students/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/22",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recruitment/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/28",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/9285",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Frecognition-on-yahoo-finance%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Frecognition-on-yahoo-finance%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/8549",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwxn-top-100-canadas-most-powerful-women-2020%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwxn-top-100-canadas-most-powerful-women-2020%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/7238",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcommunity-workshops%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcommunity-workshops%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/parenting/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/25",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/7048",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcambridge-times-readers-choice-winner%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcambridge-times-readers-choice-winner%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/6726",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthats-a-wrap-from-the-weekend-at-the-baby-show%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthats-a-wrap-from-the-weekend-at-the-baby-show%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/6560",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-ranks-no-299-on-the-2019-growth-500%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-ranks-no-299-on-the-2019-growth-500%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/2081",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fadditional-support%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fadditional-support%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/pages/12837",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffeedback%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffeedback%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/6294",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcome-and-meet-us-at-the-baby-show%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcome-and-meet-us-at-the-baby-show%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/recommendations/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/27",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2703",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fjoin-our-5th-annual-lullaboo-sickkids-foundation-bbq%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fjoin-our-5th-annual-lullaboo-sickkids-foundation-bbq%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2131",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboos-2017-sick-kids-foundation-campaign%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboos-2017-sick-kids-foundation-campaign%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/6078",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fnew-lullaboo-childcare-centre-now-open-in-bradford%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fnew-lullaboo-childcare-centre-now-open-in-bradford%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4843",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Four-favorite-st-patricks-day-books-for-children%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Four-favorite-st-patricks-day-books-for-children%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5746",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftop-5-pool-safety-tips-for-toddlers-lullaboo%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftop-5-pool-safety-tips-for-toddlers-lullaboo%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5307",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fspring-allergies-top-3-ways-to-help-your-child%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fspring-allergies-top-3-ways-to-help-your-child%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5149",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-is-the-best-age-to-send-a-baby-to-daycare-lullaboo%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-is-the-best-age-to-send-a-baby-to-daycare-lullaboo%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4633",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-room-temperature-is-too-cold-for-a-baby%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-room-temperature-is-too-cold-for-a-baby%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5741",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Four-favorite-summer-books-for-preschoolers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Four-favorite-summer-books-for-preschoolers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5704",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fyoung-entrepreneur-under-40-award%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fyoung-entrepreneur-under-40-award%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5310",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-fun-spring-outdoor-activities-for-preschool%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-fun-spring-outdoor-activities-for-preschool%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/activities/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/69",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/5154",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-spring-activities-for-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-spring-activities-for-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4839",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fpopular-childcare-options-pros-and-cons%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fpopular-childcare-options-pros-and-cons%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4636",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-best-valentines-day-activities-for-preschoolers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-best-valentines-day-activities-for-preschoolers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4418",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhottest-10-christmas-gifts-for-preschoolers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhottest-10-christmas-gifts-for-preschoolers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4188",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftop-5-childrens-christmas-films-of-all-time%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftop-5-childrens-christmas-films-of-all-time%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2118",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-named-sickkids-donor-of-the-week%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flullaboo-named-sickkids-donor-of-the-week%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2641",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwater-safety-for-preschoolers-this-summer%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwater-safety-for-preschoolers-this-summer%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2740",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-preschool-summer-crafts%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-preschool-summer-crafts%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2130",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fsolving-parenting-disagreements%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fsolving-parenting-disagreements%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2132",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fideas-for-planning-an-affordable-birthday-party-for-your-kid%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fideas-for-planning-an-affordable-birthday-party-for-your-kid%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4410",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-fun-family-winter-games%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-fun-family-winter-games%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4184",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhy-is-it-important-to-have-childcare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhy-is-it-important-to-have-childcare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/3646",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-is-the-purpose-of-early-childhood-education%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-is-the-purpose-of-early-childhood-education%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2545",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-types-of-preschool-programs-are-best-for-my-child%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fwhat-types-of-preschool-programs-are-best-for-my-child%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4363",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-parenting-quotes-you-wont-forget%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-parenting-quotes-you-wont-forget%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4359",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-signs-of-a-quality-childcare-centre-every-parent-needs-to-know%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-signs-of-a-quality-childcare-centre-every-parent-needs-to-know%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/3640",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fa-parents-brief-guide-to-each-early-childhood-stage%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fa-parents-brief-guide-to-each-early-childhood-stage%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/3742",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-free-fun-toddler-learning-apps%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F4-free-fun-toddler-learning-apps%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2519",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-signs-child-ready-preschool%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-signs-child-ready-preschool%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4085",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F9-favorite-fall-books-for-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F9-favorite-fall-books-for-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4079",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fget-artsy-this-fall-with-fun-fall-crafts-for-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fget-artsy-this-fall-with-fun-fall-crafts-for-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2635",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-summer-outdoor-toys-for-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-summer-outdoor-toys-for-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2493",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-tips-fussy-eaters%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-tips-fussy-eaters%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2332",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-learning-educational-toys%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-learning-educational-toys%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2227",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcompassionate-books-young-readers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fcompassionate-books-young-readers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/121",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F6-common-mistakes-made-looking-child-care%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F6-common-mistakes-made-looking-child-care%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2119",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-ways-get-toddler-eat-vegetables%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-ways-get-toddler-eat-vegetables%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/4355",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbest-toddler-learning-songs-for-the-summer%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fbest-toddler-learning-songs-for-the-summer%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2129",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftwo-ways-save-preschoolers-artwork%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftwo-ways-save-preschoolers-artwork%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2133",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-ways-make-car-child-friendly%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-ways-make-car-child-friendly%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2514",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fchoosing-right-infant-daycare-child%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fchoosing-right-infant-daycare-child%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2122",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthings-look-selecting-daycare%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthings-look-selecting-daycare%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2121",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fearly-learning-infants-toddlers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fearly-learning-infants-toddlers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2120",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhelp-toddler-learn-colors%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhelp-toddler-learn-colors%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2115",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fdecide-daycare-centres%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fdecide-daycare-centres%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2116",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fraising-the-bar-in-peel%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fraising-the-bar-in-peel%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2553",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fsuper-fun-summer-activities-for-toddlers-and-preschoolers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fsuper-fun-summer-activities-for-toddlers-and-preschoolers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2204",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-words-encouragement-children%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-words-encouragement-children%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2141",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftips-cleaning-art-activities%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftips-cleaning-art-activities%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2138",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flearning-continues-home%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Flearning-continues-home%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2135",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fimportance-play-young-children%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fimportance-play-young-children%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2134",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-books-parents%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-books-parents%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2489",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-kid-friendly-winter-activities%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftoronto-kid-friendly-winter-activities%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2224",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffunny-books-read-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffunny-books-read-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2140",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-hilarious-childrens-books%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-hilarious-childrens-books%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2137",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-nonfiction-books-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-nonfiction-books-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2136",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-toys-inspire-stem-learning%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fgreat-toys-inspire-stem-learning%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2126",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-stress-relief-strategies-kids%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F3-stress-relief-strategies-kids%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/1175",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffive-educational-apps-toddlers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffive-educational-apps-toddlers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2329",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-things-toronto-toddlers%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-things-toronto-toddlers%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2128",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftips-teaching-kids-healthy-choices%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ftips-teaching-kids-healthy-choices%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2110",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fchild-care-school-the-key-role-it-plays-in-your-childs-development%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fchild-care-school-the-key-role-it-plays-in-your-childs-development%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2123",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fkeep-baby-warm-canadian-winter%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fkeep-baby-warm-canadian-winter%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2113",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F8-reasons-enrol-child-daycare-program%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F8-reasons-enrol-child-daycare-program%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2127",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhandle-aggressive-toddler%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fhandle-aggressive-toddler%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2201",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-fall-family-activities%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-fall-family-activities%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2139",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-educational-activities-young-children%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-educational-activities-young-children%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2125",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fclothing-tips-things-know-dressing-infant%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fclothing-tips-things-know-dressing-infant%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/1285",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-staycation-ideas-young-families%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Ffun-staycation-ideas-young-families%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/85",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthe-dos-and-donts-when-sending-your-child-to-child-care%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2Fthe-dos-and-donts-when-sending-your-child-to-child-care%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/posts/2124",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-pro-tips-flying-infant-baby-toddler%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flullaboo.ca%2F5-pro-tips-flying-infant-baby-toddler%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/travel/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/19",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/category/clothing/feed/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://lullaboo.ca/wp-json/wp/v2/categories/21",
+      "status": "content type is not text/html"
+    }
+  ]
 }
